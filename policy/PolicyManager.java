@@ -26,7 +26,7 @@ import com.android.internal.policy.IPolicy;
 /***
  * {@hide}
  */
-
+//策略，不懂是用来做什么的用
 public final class PolicyManager {
     private static final String POLICY_IMPL_CLASS_NAME =
         "com.android.internal.policy.impl.Policy";
